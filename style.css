@@ -1,0 +1,61 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f4f4f4;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.business-card {
+    background: white;
+    padding: 40px;
+    border-radius: 0;
+    text-align: center;
+    width: 600px;
+    height: 220px;
+    border-radius: 15px;
+    border: 2px solid rgb(66, 63, 58);
+}
+
+.business-card h2 {
+    margin-top: 8px;
+    font-size: 42px;
+    color: #333;
+}
+
+.business-card p {
+    margin: 10px 0;
+    color: #666;
+    font-size: 18px;
+}
+
+.social-links {
+    margin-top: 20px;
+}
+
+.social-links a {
+    display: inline-block;
+    margin: 20px;
+    color: #363639;
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.social-links a:hover {
+    text-decoration: underline;
+}
+
+.pr {
+  color: rgb(140, 22, 218);
+  text-decoration: underline;
+  cursor: pointer;
+}
