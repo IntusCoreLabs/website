@@ -1,1 +1,1 @@
-<a href="https://intuscorelabas.vercel.app">website</a>
+<a href="https://intuscorelabs.vercel.app">website</a>
